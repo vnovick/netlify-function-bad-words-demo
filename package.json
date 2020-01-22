@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Dummy build\" && exit 0"
+    "build": "echo \"Dummy build\""
   },
   "author": "",
   "license": "ISC"
